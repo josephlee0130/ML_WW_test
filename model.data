@@ -1,4 +1,4 @@
-classes = 2 
+classes = 4
 train  = model_train.txt 
 valid  = model_valid.txt 
 names = model.names 
